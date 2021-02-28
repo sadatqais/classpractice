@@ -6,6 +6,8 @@ public class GitMassage {
 
 
 		System.out.println("Hello everyone my first massage");
+		
+		// you should build a method to do all the action.
 	}
 
 }
